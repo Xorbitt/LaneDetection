@@ -1,2 +1,2 @@
 # LaneDetection
-Lane detection model build with FastAi
+Simple lane detection model build with FastAi and trained on TuSimple dataset.
